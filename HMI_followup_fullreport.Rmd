@@ -3,7 +3,7 @@ title: "HMI Follow-Up Full Report"
 author: "Stanford SPARQ"
 date: "June 2020"
 output:
-  html_document:
+  rmarkdown::github_document:
     toc: yes
     toc_depth: '4'
   pdf_document:
